@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alkier Magallanes</h1>
 <h3 align="center">I am a 22 year old university student in the Philippines aspiring to become a software developer 💻</h3>
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJoMzZjcmNvcmR5c3RmZ21lYjBueThhd2kzdXNwY2JtcGowdDF5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=almags&label=Profile%20views&color=0e75b6&style=flat" alt="almags" /> </p>
 -----
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=almags&label=Profile%20views&color=0e75b6&style=flat" alt="almags" /> </p>
+
 
 - 🌱 I’m currently learning **Kotlin, Android Development, and Web Development.**
 
