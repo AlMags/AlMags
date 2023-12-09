@@ -9,19 +9,18 @@
   - **Android Development**
   - **Web Development**
 
-- 👨‍💻 All of my projects are available at [![My Skills](https://skillicons.dev/icons?i=github)]())
+- 👨‍💻 All of my projects are available at
 <p align="left">
   <a href="[https://skillicons.dev](https://github.com/AlMags/Projects_Magallanes">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github"/>
   </a>
 </p>
-
-- 📫 How to reach me **magallanesalkier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alkier (gab) magallanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alkier (gab) magallanes" height="30" width="40" /></a>
 <a href="https://fb.com/alkier magallanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alkier magallanes" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magallanesalkier@gmail.com" height="30" width="40" />
 </p>
 
 <br />
