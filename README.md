@@ -17,8 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/alkier (gab) magallanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alkier (gab) magallanes" height="30" width="40" /></a>
 <a href="https://fb.com/alkier magallanes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alkier magallanes" height="30" width="40" /></a>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="magallanesalkier@gmail.com" height="30" width="40" />
-</p>
 
 <br />
 
