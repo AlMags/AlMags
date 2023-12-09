@@ -4,10 +4,6 @@
 
 -----
 
-<a href="https://visitcount.itsvg.in">
-  <img align="center" src="https://visitcount.itsvg.in/api?id=almags&label=Profile%20Views&color=3&icon=0&pretty=true" />
-</a>
-
 - 🌱 I’m currently learning **Kotlin, Android Development, and Web Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlMags/Projects_Magallanes](https://github.com/AlMags/Projects_Magallanes)
@@ -40,3 +36,13 @@
 <p align="center"> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almags&" alt="almags" />
 </p>
+
+
+-----
+
+<p align="center"> 
+  <a href="https://visitcount.itsvg.in">
+    <img align="center" src="https://visitcount.itsvg.in/api?id=almags&label=Profile%20Views&color=3&icon=0&pretty=true" />
+  </a>
+</p>
+
