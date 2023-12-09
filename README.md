@@ -4,7 +4,9 @@
 
 -----
 
-[![](https://visitcount.itsvg.in/api?id=almags&icon=2&color=10)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=almags&label=Profile%20Views&color=3&icon=0&pretty=true" />
+</a>
 
 - 🌱 I’m currently learning **Kotlin, Android Development, and Web Development.**
 
