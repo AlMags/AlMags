@@ -9,7 +9,12 @@
   - **Android Development**
   - **Web Development**
 
-- 👨‍💻 All of my projects are available at [![My Skills](https://skillicons.dev/icons?i=github)]([https://skillicons.dev](https://github.com/AlMags/Projects_Magallanes))
+- 👨‍💻 All of my projects are available at [![My Skills](https://skillicons.dev/icons?i=github)]())
+<p align="left">
+  <a href="[https://skillicons.dev](https://github.com/AlMags/Projects_Magallanes">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 - 📫 How to reach me **magallanesalkier@gmail.com**
 
