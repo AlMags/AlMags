@@ -4,8 +4,8 @@
 
 -----
 
-<a align="center" href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=almags&label=Profile%20Views&color=3&icon=0&pretty=true" />
+<a href="https://visitcount.itsvg.in">
+  <img align="center" src="https://visitcount.itsvg.in/api?id=almags&label=Profile%20Views&color=3&icon=0&pretty=true" />
 </a>
 
 - 🌱 I’m currently learning **Kotlin, Android Development, and Web Development.**
