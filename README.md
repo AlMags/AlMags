@@ -4,7 +4,7 @@
 
 -----
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=almags&label=Profile%20views&color=0e75b6&style=flat" alt="almags" /> </p>
+[![](https://visitcount.itsvg.in/api?id=almags&icon=2&color=10)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Kotlin, Android Development, and Web Development.**
 
