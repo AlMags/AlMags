@@ -4,7 +4,10 @@
 
 -----
 
-- 🌱 I’m currently learning **Kotlin, Android Development, and Web Development.**
+- 🌱 I’m currently learning:
+  - **Kotlin**
+  - **Android Development**
+  - **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlMags/Projects_Magallanes](https://github.com/AlMags/Projects_Magallanes)
 
