@@ -5,9 +5,13 @@
 -----
 
 - 🌱 I’m currently learning:
+  - **ReactJs**
+  - **Go**
+  - **Web Development**
+  - **C#**
+- 📝 Planning to learn:
   - **Kotlin**
   - **Android Development**
-  - **Web Development**
 
 - 👨‍💻 All of my projects are available at https://github.com/AlMags/Projects_Magallanes
 
