@@ -6,9 +6,16 @@
 
 - 🌱 I’m currently learning:
   - **ReactJs**
+  - **Typescript**
+  - **Cypress**
+  - **Material UI**
   - **Go**
-  - **Web Development**
   - **C#**
+- Previous experience:
+  - **C++**
+  - **C#**
+  - **Java** 
+  - **Python**
 - 📝 Planning to learn:
   - **Kotlin**
   - **Android Development**
