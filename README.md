@@ -10,7 +10,6 @@
   - **Cypress**
   - **Material UI**
   - **Go**
-  - **C#**
 - Previous experience:
   - **C++**
   - **C#**
