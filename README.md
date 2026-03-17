@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alkier (Gab) Magallanes</h1>
-<h3 align="center">I am a 22 year old university student in the Philippines aspiring to become a software developer 💻</h3>
+<h1 align="center">Hi 👋, I'm Alkier Gabriel (Gab) Magallanes</h1>
+<h3 align="center">I am a 24 year old Software Engineer in the Philippines 💻</h3>
 <img align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJoMzZjcmNvcmR5c3RmZ21lYjBueThhd2kzdXNwY2JtcGowdDF5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 -----
