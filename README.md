@@ -10,6 +10,9 @@
   - **Cypress**
   - **Material UI**
   - **Go**
+  - **Express**
+  - **MongoDB**
+  - **Node**
 - Previous experience:
   - **C++**
   - **C#**
