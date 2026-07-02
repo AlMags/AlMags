@@ -40,14 +40,6 @@
 
 <br />
 <p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=almags&show_icons=true&locale=en&layout=compact" alt="almags" />
-</p>
-<br />
-<p align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=almags&show_icons=true&locale=en" alt="almags" />
-</p>
-<br />
-<p align="center"> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=almags&" alt="almags" />
 </p>
 
