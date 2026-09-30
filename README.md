@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alkier Gabriel (Gab) Magallanes</h1>
 
 ## 💫 About Me:
-I am a 24 year old Software Engineer in the Philippines. 
+I am a 25 year old Software Engineer in the Philippines. 
 An Associate Software Engineer with 2 years of work experience.
 Actively seeking job opportunities and open to learning new tech stacks and
 technologies.
